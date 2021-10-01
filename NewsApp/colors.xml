@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="indian_dye">#1B4965</color>
+    <color name="orange_crayola">#FF773D</color>
+    <color name="cadmium_orange">#F19143</color>
+    <color name="bright_yellow_crayola">#FFB238</color>
+    <color name="maximum_yellow_red">#FABC3C</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="black_shade_1">#292036</color>
+    <color name="grey">#424242</color>
+    <color name="carolina_blue">#62B6CB</color>
+    <color name="bole">#784F41</color>
+    <color name="copper_rose">#986C6A</color>
+</resources>

@@ -1,0 +1,16 @@
+CATATAN:
+
+Tutorial di link grup kelompok PB: progress baru sampai menit ke 36:50
+
+file AndroidManifest.xml taruh/replace di bagian manifests
+
+file Articles, MainActivity, NewsModal, NewsRVAdapter, dan RetrofitAPI taruh/replace di bagian java/com.example.news_app
+
+file BuildConfig taruh/replace di bagianm java (generated)
+
+file activity_main.xml dan news_rv_item.xml taruh/replace di bagian layout
+
+file colors.xml, strings.xml, themes.xml, themes_night.xml taruh/replace di bagian values
+
+HARUS update build.gradle (Module: News_App.app) sesuai dengan build.gradle yang sudah dikirim di github ini
+
